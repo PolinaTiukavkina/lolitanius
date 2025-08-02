@@ -4,7 +4,7 @@
 
   
    <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Polina!</h1>
-   <p>🎓Currently a second year Computer Science student of TU Dublin.</p>
+   <p>🎓Currently a third year Computer Science student of TU Dublin.</p>
 <p>
      ❤️I’m passionate about building tools driven by a love for design, attention to detail, and a refusal to settle for “good enough.”  
     <p>✨ <strong>Collaboration and innovation inspire me!</strong> Feel free to explore my repositories or reach out for collaborations. Let's code something amazing together!</p>
