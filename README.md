@@ -10,9 +10,9 @@
     <p>✨ <strong>Collaboration and innovation inspire me!</strong> Feel free to explore my repositories or reach out for collaborations. Let's code something amazing together!</p>
 </p>
 
-🔭 Currently working on Book reservation website
 
-🌱 Learning PHP, OOP, mySQL
+
+🌱 Learning React Native, OOP, mySQL
 
    🤖 I use daily: `.py`, `.c`, `.html`, `.css`, `.php` :
 <div>
